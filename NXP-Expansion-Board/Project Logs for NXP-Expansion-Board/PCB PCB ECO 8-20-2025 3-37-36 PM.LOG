@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=SW1 Old Footprint=SPDT_6Pin New Footprint=DPDT_6Pin
+Added Room: Name=Sheet
