@@ -1,0 +1,56 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW4
+Change Component Designator: OldDesignator=SW? NewDesignator=SW5
+Change Component Designator: OldDesignator=TB? NewDesignator=TB1
+Add Pin To Net: Unknown Pin: Pin D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R4-2
+Added Net: Name=NetD1_2
+Add Class Member: Failed to add class member : Component D1 Light-Emitting Diode
+Added Member To Class: ClassName=Sheet Member=Component J1 Barrel Power Jack
+Added Member To Class: ClassName=Sheet Member=Component J2 Data HDR 1x3 2.54mm
+Added Member To Class: ClassName=Sheet Member=Component J3 Data HDR 1x4 2.54mm
+Added Member To Class: ClassName=Sheet Member=Component J4 Ultrasonic_FL
+Added Member To Class: ClassName=Sheet Member=Component J5 Ultrasonic_FR
+Added Member To Class: ClassName=Sheet Member=Component J6 Data HDR 1x8 2.54mm
+Added Member To Class: ClassName=Sheet Member=Component J7 Ultrasonic_RL
+Added Member To Class: ClassName=Sheet Member=Component J8 MCP2551
+Added Member To Class: ClassName=Sheet Member=Component J9 HDR SCK 1*2 100MILS
+Added Member To Class: ClassName=Sheet Member=Component J11 HDR SCK 1*2 100MILS
+Added Member To Class: ClassName=Sheet Member=Component J12 Ultrasonic_RR
+Added Member To Class: ClassName=Sheet Member=Component R1 10k
+Added Member To Class: ClassName=Sheet Member=Component R3 10k
+Added Member To Class: ClassName=Sheet Member=Component R4 330
+Added Member To Class: ClassName=Sheet Member=Component R5 10k
+Added Member To Class: ClassName=Sheet Member=Component R6 10k
+Added Member To Class: ClassName=Sheet Member=Component R7 10k
+Added Member To Class: ClassName=Sheet Member=Component R8 10k
+Added Member To Class: ClassName=Sheet Member=Component R9 Speed
+Added Member To Class: ClassName=Sheet Member=Component R10 RPM
+Added Member To Class: ClassName=Sheet Member=Component SW1 1825910-6
+Added Member To Class: ClassName=Sheet Member=Component SW2 1825910-6
+Added Member To Class: ClassName=Sheet Member=Component SW3 1825910-6
+Added Member To Class: ClassName=Sheet Member=Component SW5 1825910-6
