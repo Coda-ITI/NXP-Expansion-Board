@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Net Name : Old Net Name=NetD?_C New Net Name=NetD1_C
+Added Room: Name=Sheet
