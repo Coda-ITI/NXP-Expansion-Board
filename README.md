@@ -1,8 +1,8 @@
 # NXP-Expansion-Board
 
-    <!-- C stands for Coda -->
-    <!-- 4 stands for the 4 of us -->
-    <!-- d stands for deez -->
+<!-- C stands for Coda -->
+<!-- 4 stands for the 4 of us -->
+<!-- d stands for deez -->
 
 ## About
 This is a PCB designed on Altium to collect all the hardware components needed for the NXP firmware to function as intended in Coda. Nothing fancy here. Also, shout out to my boi [Ahmed Sherif](https://github.com/Ahmed0Sherif) for acting as my design consultant with this one. :)
